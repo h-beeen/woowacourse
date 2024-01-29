@@ -1,0 +1,12 @@
+[submodule "java-lotto-6"]
+	path = java-lotto-6
+	url = git@github.com:h-beeen/java-lotto-6.git
+[submodule "java-racingcar-6"]
+	path = java-racingcar-6
+	url = git@github.com:h-beeen/java-racingcar-6.git
+[submodule "java-christmas-6-h-beeen"]
+	path = java-christmas-6-h-beeen
+	url = git@github.com:h-beeen/java-christmas-6-h-beeen.git
+[submodule "java-baseball-6"]
+	path = java-baseball-6
+	url = git@github.com:h-beeen/java-baseball-6.git
